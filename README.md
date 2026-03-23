@@ -11,10 +11,10 @@ Driven by curiosity, I enjoy exploring new technologies through personal and aca
 
 ## 🛠 Hard Skills
 
-| **Languages** : C (POSIX), OCaml, Python, SQL (PostgreSQL), LaTeX 
-| **Systems & Infra** : Linux Admin (Debian), Bash Scripting, Git 
-| **Specialties** : Scraping, Image Processing 
-| **Interests** : Software Architecture, Cybersecurity, DevOps
+**Languages** : C (POSIX), OCaml, Python, SQL (PostgreSQL), LaTeX 
+**Systems & Infra** : Linux Admin (Debian), Bash Scripting, Git 
+**Specialties** : Scraping, Image Processing 
+**Interests** : Software Architecture, Cybersecurity, DevOps
 
 
 ## 📂 Featured Projects
@@ -36,7 +36,7 @@ Driven by curiosity, I enjoy exploring new technologies through personal and aca
 
 
 ## 📫 Get in Touch
-- **LinkedIn:** [Your-LinkedIn-Link](https://linkedin.com/in/your-profile)
+- **LinkedIn:** [LINK](https://www.linkedin.com/in/hicham-el-khazrouni/)
 - **Seeking:** A 2-month **Technical Internship** (June-July 2026) in Software Engineering or Security.
 <!--
 **The-fleche/The-fleche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
