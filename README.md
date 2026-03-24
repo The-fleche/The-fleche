@@ -11,7 +11,7 @@ Driven by curiosity, I enjoy exploring new technologies through personal and aca
 
 ## 🛠 Hard Skills
 
-- **Languages** : C (POSIX), OCaml, Python, SQL (PostgreSQL), LaTeX 
+- **Languages** : C (POSIX), OCaml, Python, SQL (PostgreSQL), Java, HTML, CSS, JS, LaTeX 
 - **Systems & Infra** : Linux Admin (Debian), Bash Scripting, Git 
 - **Specialties** : Web Scraping, Image Processing 
 - **Interests** : Software Architecture, Cybersecurity, DevOps
