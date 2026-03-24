@@ -23,12 +23,12 @@ Driven by curiosity, I enjoy exploring new technologies through personal and aca
 *A C-based implementation of a partial OCaml virtual machine.*
 - Implemented core primitives, stack management, and binary file reading.
 
-### 🕵️ [CROUS Housing Scraper](link-to-repo)
+### 🕵️ [CROUS Housing Scraper](https://github.com/The-fleche/Crous-housing-scraper)
 *Automation & Bot-detection bypass tool.*
 - Developed real-time data extraction with mobile notifications.
 - **Challenge:** Implemented session-refresh logic to maintain active cookies and bypass automated-access restrictions, web scraping .
 
-### 🔬 [Object tracking and slider servo](link-to-repo)
+### 🔬 [Object tracking and slider servo](https://github.com/The-fleche/TIPE-Object-Tracking)
 *Applied Mathematics & Signal Processing.*
 - Manual implementation of Sobel and custom filters without high-level libraries, to showcase algorithmic understanding.
 - Followed by an OpenCV implementation for optimized performance.
