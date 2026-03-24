@@ -1,19 +1,19 @@
 ## 👋 Hi there, I'm Hicham!
 
 
-I am a motivated engineering student at ENSIIE (France) with a strong background in Mathematics (CPGE PCSI/PSI & ongoing Bachelor's degree in Mathematics too) and a passion for understanding how systems work "under the hood." My goal is to become a proficient **Software Engineer**, with a growing interest in **Cybersecurity** and **DevOps**.
+I am a motivated engineering student at ENSIIE (France) with a strong background in Mathematics (CPGE PCSI/PSI & curently pursuing Bachelor's degree in Mathematics) and a passion for understanding how systems work "under the hood." My goal is to become a proficient **Software Engineer**, with a growing interest in **Cybersecurity** and **DevOps**.
 
 Driven by curiosity, I enjoy exploring new technologies through personal and academic projects. My experience in diverse summer jobs (outside of IT) has equipped me with essential **soft skills** in communication, teamwork, and adaptability, proving my versatility beyond just code.
 
 - 🛠 Currently developing a **Particle Physics Simulator in C**.
-- 🐧 Linux enthusiast (Debian) | Experienced in self-hosting
+- 🐧 Linux enthusiast (Debian) | Experienced in self-hosting (Home lab)
 
 
 ## 🛠 Hard Skills
 
 - **Languages** : C (POSIX), OCaml, Python, SQL (PostgreSQL), LaTeX 
 - **Systems & Infra** : Linux Admin (Debian), Bash Scripting, Git 
-- **Specialties** : Scraping, Image Processing 
+- **Specialties** : Web Scraping, Image Processing 
 - **Interests** : Software Architecture, Cybersecurity, DevOps
 
 
@@ -26,12 +26,12 @@ Driven by curiosity, I enjoy exploring new technologies through personal and aca
 ### 🕵️ [CROUS Housing Scraper](link-to-repo)
 *Automation & Bot-detection bypass tool.*
 - Developed real-time data extraction with mobile notifications.
-- **Challenge:** Implemented session-refresh logic to maintain active cookies and bypass automated-access restrictions, scrapping .
+- **Challenge:** Implemented session-refresh logic to maintain active cookies and bypass automated-access restrictions, web scraping .
 
 ### 🔬 [Object tracking and slider servo](link-to-repo)
 *Applied Mathematics & Signal Processing.*
-- Manual implementation of Sobel and custom filters without high-level libraries, showcasing algorithmic understanding.
-- Implementation with OpenCV after for better performance
+- Manual implementation of Sobel and custom filters without high-level libraries, to showcase algorithmic understanding.
+- Followed by an OpenCV implementation for optimized performance.
 
 
 
