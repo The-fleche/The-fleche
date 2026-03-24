@@ -37,7 +37,7 @@ Driven by curiosity, I enjoy exploring new technologies through personal and aca
 
 ## 📫 Get in Touch
 - **LinkedIn:** [https://www.linkedin.com/in/hicham-el-khazrouni/](https://www.linkedin.com/in/hicham-el-khazrouni/)
-- **Seeking:** A 2-month **Technical Internship** (June-July 2026) in Software Engineering or Security.
+- **Seeking:** A 2-month **Technical Internship** (July-August 2026) in Software Engineering or Security.
 <!--
 **The-fleche/The-fleche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
