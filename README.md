@@ -19,7 +19,7 @@ Driven by curiosity, I enjoy exploring new technologies through personal and aca
 
 ## 📂 Featured Projects
 
-### 🖥️ [OCaml Bytecode Interpreter](link-to-repo)
+### 🖥️ [OCaml Bytecode Interpreter](https://github.com/The-fleche/OCaml-Bytecode-VM/)
 *A C-based implementation of a partial OCaml virtual machine.*
 - Implemented core primitives, stack management, and binary file reading.
 
