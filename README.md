@@ -6,7 +6,7 @@ I am a motivated engineering student at ENSIIE (France) with a strong background
 Driven by curiosity, I enjoy exploring new technologies through personal and academic projects. My experience in diverse summer jobs (outside of IT) has equipped me with essential **soft skills** in communication, teamwork, and adaptability, proving my versatility beyond just code.
 
 - 🛠 Currently developing a **Particle Physics Simulator in C**.
-- 🐧 Linux enthusiast (Debian) | Experienced in self-hosting (Home lab)
+- 🐧 Linux enthusiast (Debian) | Experienced in self-hosting ([Home lab](https://github.com/The-fleche/Home-lab))
 
 
 ## 🛠 Hard Skills
