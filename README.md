@@ -19,6 +19,12 @@ Driven by curiosity, I enjoy exploring new technologies through personal and aca
 
 ## 📂 Featured Projects
 
+### 🏠 [Home Lab: Hardware Rehabilitation & Headless Server](https://github.com/The-fleche/Home-lab)
+- Turning a locked-down corporate workstation into a self-hosted media & service hub.
+- Recovered a BIOS-locked Lenovo ThinkCentre by implementing a "transplantation" method, installing a headless Debian OS via an external host.
+- Bypassed strict campus network restrictions (AP isolation & firewalls) by deploying an obfuscated OpenVPN tunnel (TCP 443) and a Tailscale Mesh VPN for stable remote SSH access.
+- Orchestrated a complete automated media stack using Docker Compose, featuring Jellyfin and the "Arr" suite (Radarr, Sonarr, Prowlarr) with integrated kill-switch security.
+
 ### 🖥️ [OCaml Bytecode Interpreter](https://github.com/The-fleche/OCaml-Bytecode-VM/)
 *A C-based implementation of a partial OCaml virtual machine.*
 - Implemented core primitives, stack management, and binary file reading.
@@ -33,7 +39,10 @@ Driven by curiosity, I enjoy exploring new technologies through personal and aca
 - Manual implementation of Sobel and custom filters without high-level libraries, to showcase algorithmic understanding.
 - Followed by an OpenCV implementation for optimized performance.
 
-
+### 🗄️🐫 [OCaml Relational Data Base Engine](https://github.com/The-fleche/SGBD-OCaml)
+*Relational algebra & automated normalization engine*
+- Built a functional database core in OCaml to simulate complex relational operations (projection, restriction, cartesian product).
+- Developed a logic engine to automatically evaluate and validate normalization levels (1NF, 2NF, 3NF) by identifying functional dependencies and candidate keys
 
 ## 📫 Get in Touch
 - **LinkedIn:** [https://www.linkedin.com/in/hicham-el-khazrouni/](https://www.linkedin.com/in/hicham-el-khazrouni/)
